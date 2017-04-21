@@ -311,13 +311,13 @@ print("hello")
 
 						
 </t>
-<t tx="amd.20161004095719.2"># 2016Fall s40523145 謝丞智
+<t tx="amd.20161004095719.2"># 2017spingwcp G2
 
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
-#Created by [40523145](https://github.com/s40523145/2016fallcp_hw)
-#Created by [vimeo](https://vimeo.com/user57033161)
+#Created by [blog](https://s40523145.github.io/2017springwcm_g2/blog/)
+
 &lt;/small&gt;
 
 [blog](blog/index.html)
