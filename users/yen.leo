@@ -25,11 +25,11 @@
 <v t="amd.20161004083800.5" a="E"><vh>body</vh>
 <v t="amd.20161004083800.6" a="E"><vh>reveal div</vh>
 <v t="amd.20161004083800.7" a="E"><vh>slides div</vh>
-<v t="amd.20161004095719.1" a="E"><vh>封面投影片</vh>
-<v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
-</v>
+<v t="amd.20161004095719.1"><vh>封面投影片</vh></v>
 <v t="yen.20161016023122.1" a="E"><vh>快捷鍵</vh>
+<v t="amd.20161004095719.2"><vh>封面投影片內容</vh></v>
 <v t="yen.20161016023122.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20170623003208.1"><vh></vh></v>
 </v>
 <v t="amd.20161004104820.1"><vh>三大主題教學</vh>
 <v t="amd.20161004104641.1" a="E"><vh>主題教學</vh>
@@ -133,7 +133,7 @@
 <v t="yen.20161011150901.2"><vh>網際動畫範例</vh></v>
 </v>
 </v>
-<v t="yen.20161016012809.1" a="E"><vh>各式內容引用範例</vh>
+<v t="yen.20161016012809.1"><vh>各式內容引用範例</vh>
 <v t="yen.20161016012809.2" a="E"><vh>導入數學符號與方程式</vh>
 <v t="yen.20161016012809.3"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -312,7 +312,7 @@ print("hello")
 						
 </t>
 <t tx="amd.20161004095719.2"># 2017spingwcp G2
-
+##40523145 謝丞智
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
@@ -485,6 +485,7 @@ PLUGINS = ['liquid_tags.notebook', 'summary']
 <t tx="leo.20151213230957.1"># 設定網誌以 md 檔案建立的 file system date 為準, 無需自行設定
 
 DEFAULT_DATE = 'fs'</t>
+<t tx="leo.20170623003208.1"></t>
 <t tx="yen.20161011114704.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
